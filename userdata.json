@@ -22,5 +22,11 @@
         "key": "amir1",
         "expirydate": "27-6-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "730d2fcec93ad165",
+        "key": "Berzil1",
+        "expirydate": "27-09-2026",
+        "Allowoffline": false
     }
 ]
