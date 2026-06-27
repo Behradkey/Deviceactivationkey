@@ -35,5 +35,11 @@
         "expirydate": "29-07-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "b009fddd592a72b3",
+        "key": "amirshop",
+        "expirydate": "29-07-2027",
+        "Allowoffline": false
+    }
     
 ]
