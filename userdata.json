@@ -28,5 +28,11 @@
         "key": "refighesh",
         "expirydate": "27-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d32cb2bc3c29493d",
+        "key": "raider_koni",
+        "expirydate": "29-06-2026",
+        "Allowoffline": false
     }
 ]
