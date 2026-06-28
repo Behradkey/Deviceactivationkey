@@ -40,6 +40,12 @@
         "key": "amirshop",
         "expirydate": "29-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9b3c5e510cc309df",
+        "key": "orginal_h4x",
+        "expirydate": "01-07-2027",
+        "Allowoffline": false
     }
     
 ]
