@@ -42,8 +42,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "9b3c5e510cc309df",
-        "key": "orginal_h4x",
+        "device_id": "730d2fcec93ad165",
+        "key": "Khora021",
+        "expirydate": "01-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "730d2fcec93ad165",
+        "key": "Khora021",
         "expirydate": "01-07-2027",
         "Allowoffline": false
     }
