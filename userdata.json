@@ -58,6 +58,12 @@
         "key": "Khora021",
         "expirydate": "01-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4fc4703cf45e700c",
+        "key": "arad_t",
+        "expirydate": "01-09-2027",
+        "Allowoffline": false
     }
     
 ]
