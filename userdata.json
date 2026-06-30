@@ -53,6 +53,12 @@
         "key": "warzon",
         "expirydate": "01-09-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fe95335dadece73d",
+        "key": "warzon",
+        "expirydate": "01-09-2027",
+        "Allowoffline": false
     }
     
 ]
