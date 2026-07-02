@@ -65,6 +65,12 @@
         "key": "amircyber",
         "expirydate": "01-09-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "730d2fcec93ad165",
+        "key": "Berzil1",
+        "expirydate": "01-09-2027",
+        "Allowoffline": false
     }
     
 ]
