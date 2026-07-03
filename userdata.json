@@ -71,6 +71,12 @@
         "key": "Berzil1",
         "expirydate": "01-09-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5478b088a8364c93",
+        "key": "abolshom",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
     }
     
 ]
