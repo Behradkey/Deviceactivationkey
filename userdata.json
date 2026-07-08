@@ -60,6 +60,12 @@
         "key": "H",
         "expirydate": "09-10-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c4091c4c640d9731",
+        "key": "MMDTEST1",
+        "expirydate": "09-10-2027",
+        "Allowoffline": false
     }
     
 ]
