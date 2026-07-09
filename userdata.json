@@ -62,8 +62,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "c4091c4c640d9731",
+        "device_id": "cc1e9942bd0802fe",
         "key": "MMDTEST1",
+        "expirydate": "09-10-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c4091c4c640d9731",
+        "key": "ocean",
         "expirydate": "09-10-2027",
         "Allowoffline": false
     }
