@@ -78,6 +78,12 @@
         "key": "Nazidostam",
         "expirydate": "09-10-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4bd0ef2d9ead7f8",
+        "key": "warzon2",
+        "expirydate": "09-08-2027",
+        "Allowoffline": false
     }
     
 ]
