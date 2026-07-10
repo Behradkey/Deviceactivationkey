@@ -72,6 +72,12 @@
         "key": "ocean",
         "expirydate": "09-10-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d2fcbcb21ea00434",
+        "key": "Nazidostam",
+        "expirydate": "09-10-2027",
+        "Allowoffline": false
     }
     
 ]
