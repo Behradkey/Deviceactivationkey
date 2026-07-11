@@ -3,7 +3,7 @@
         "device_id": "d89ebaafc94ec4f2",
         "key": "cyber5",
         "expirydate": "10-9-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "409777066da04c18",
