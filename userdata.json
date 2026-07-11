@@ -90,6 +90,12 @@
         "key": "Assassin",
         "expirydate": "09-08-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "30050b03c683ad81",
+        "key": "amirotest",
+        "expirydate": "09-08-2027",
+        "Allowoffline": false
     }
     
 ]
