@@ -90,12 +90,7 @@
         "key": "amirotest",
         "expirydate": "09-08-2027",
         "Allowoffline": false
-    },
-    {
-        "device_id": "bc8389a9456124fe",
-        "key": "tstjenix",
-        "expirydate": "09-08-2027",
-        "Allowoffline": false
     }
+
     
 ]
