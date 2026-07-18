@@ -108,6 +108,13 @@
         "key": "cyber10",
         "expirydate": "09-08-2027",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "f6681ff7bc1f3f56",
+        "key": "RAYZEN",
+        "expirydate": "09-09-2026",
+        "Allowoffline": false
     }
 
     
