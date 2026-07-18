@@ -102,6 +102,12 @@
         "key": "A",
         "expirydate": "09-08-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "696508a33983564a",
+        "key": "cyber10",
+        "expirydate": "09-08-2027",
+        "Allowoffline": false
     }
 
     
