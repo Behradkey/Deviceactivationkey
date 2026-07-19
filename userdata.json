@@ -115,6 +115,13 @@
         "key": "RAYZEN",
         "expirydate": "09-09-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id":"e3f3180f5029c044",
+        "key": "mmd01",
+        "expirydate": "09-09-2029",
+        "Allowoffline": false
     }
 
     
