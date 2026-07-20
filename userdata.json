@@ -116,11 +116,10 @@
         "expirydate": "09-09-2026",
         "Allowoffline": false
     },
-    
     {
-        "device_id":"f88bbeec568f4aec",
-        "key": "Ali",
-        "expirydate": "09-10-2026",
+        "device_id":"e3f3180f5029c044",
+        "key": "mmd01",
+        "expirydate": "09-10-2027",
         "Allowoffline": false
     }
     
