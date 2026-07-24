@@ -127,6 +127,12 @@
         "key": "behrad",
         "expirydate": "09-10-2027",
         "Allowoffline": false
+    },
+    {
+    "device_id": "f3c24fb00ef3b09f",
+    "key": "کیر",
+    "expirydate": "02-10-2026",
+    "Allowoffline": true
     }
     
     
