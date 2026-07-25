@@ -137,7 +137,13 @@
     {
     "device_id": "f3c24fb00ef3b09f",
     "key": "mmd_mtx1",
-    "expirydate": "24-8-2026",
+    "expirydate": "02-10-2025",
+    "Allowoffline": false
+    },
+    {
+    "device_id": "ba89bd844ad86733",
+    "key": "AHMAD",
+    "expirydate": "24-8-2027",
     "Allowoffline": false
     }
     
