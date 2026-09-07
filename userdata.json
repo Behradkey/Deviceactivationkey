@@ -16,5 +16,12 @@
         "key": "warzon",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+        },
+    
+        {
+        "device_id": "195cb976f1d2f181",
+        "key": "cyber1",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
         }
 ]
