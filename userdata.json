@@ -36,6 +36,13 @@
         "key": "cyber3",
         "expirydate": "8-10-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "920c16d0f063bce0",
+        "key": "cyber4",
+        "expirydate": "8-11-2026",
+        "Allowoffline": false
     }
     
 ]
