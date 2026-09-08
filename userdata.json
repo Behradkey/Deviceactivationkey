@@ -23,5 +23,11 @@
         "key": "cyber1",
         "expirydate": "15-09-2026",
         "Allowoffline": false
-        }
+        },
+    {
+        "device_id": "72c81da637d130ef",
+        "key": "cyber2",
+        "expirydate": "15-09-2030",
+        "Allowoffline": false
+    }
 ]
